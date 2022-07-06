@@ -88,4 +88,4 @@ let decrement = (id) => {
   console.log(basket);
 };
 
-let update = () => {g};
+let update = () => {};
