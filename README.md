@@ -1,4 +1,2 @@
-### <h1> ON GOING </h1>
-
-# Shopping-cart-js
+<h1>Shopping-cart-js</h1>
 functional shopping cart built using vanilla JavaScript
